@@ -1,0 +1,472 @@
+[
+{
+"id": "w_ability",
+"en": "ability",
+"pos": "n",
+"ar": [
+"قدرة"
+],
+"ex": "She has the ability to learn fast.",
+"exAr": "لديها القدرة على التعلّم بسرعة.",
+"syn": [
+"skill"
+],
+"ant": [],
+"src": "MEMO seed - يحتاج مراجعة معلم"
+},
+{
+"id": "w_achieve",
+"en": "achieve",
+"pos": "v",
+"ar": [
+"يحقق",
+"ينجز"
+],
+"ex": "He worked hard to achieve his goal.",
+"exAr": "عمل بجدّ ليحقق هدفه.",
+"syn": [
+"accomplish"
+],
+"ant": [
+"fail"
+],
+"src": "MEMO seed - يحتاج مراجعة معلم"
+},
+{
+"id": "w_advantage",
+"en": "advantage",
+"pos": "n",
+"ar": [
+"ميزة",
+"أفضلية"
+],
+"ex": "Speaking English is a big advantage.",
+"exAr": "التحدّث بالإنجليزية ميزة كبيرة.",
+"syn": [
+"benefit"
+],
+"ant": [
+"disadvantage"
+],
+"src": "MEMO seed - يحتاج مراجعة معلم"
+},
+{
+"id": "w_benefit",
+"en": "benefit",
+"pos": "n/v",
+"ar": [
+"فائدة",
+"يستفيد"
+],
+"ex": "Exercise has many benefits.",
+"exAr": "للتمارين فوائد كثيرة.",
+"syn": [
+"advantage"
+],
+"ant": [],
+"src": "MEMO seed - يحتاج مراجعة معلم"
+},
+{
+"id": "w_challenge",
+"en": "challenge",
+"pos": "n",
+"ar": [
+"تحدٍّ"
+],
+"ex": "Learning a language is a challenge.",
+"exAr": "تعلّم لغة تحدٍّ.",
+"syn": [],
+"ant": [],
+"src": "MEMO seed - يحتاج مراجعة معلم"
+},
+{
+"id": "w_communicate",
+"en": "communicate",
+"pos": "v",
+"ar": [
+"يتواصل"
+],
+"ex": "We communicate by phone.",
+"exAr": "نتواصل بالهاتف.",
+"syn": [],
+"ant": [],
+"src": "MEMO seed - يحتاج مراجعة معلم"
+},
+{
+"id": "w_community",
+"en": "community",
+"pos": "n",
+"ar": [
+"مجتمع (محلي)"
+],
+"ex": "The community helped the family.",
+"exAr": "ساعد المجتمع المحلي الأسرة.",
+"syn": [],
+"ant": [],
+"src": "MEMO seed - يحتاج مراجعة معلم"
+},
+{
+"id": "w_concentrate",
+"en": "concentrate",
+"pos": "v",
+"ar": [
+"يركّز"
+],
+"ex": "I can't concentrate when it is noisy.",
+"exAr": "لا أستطيع التركيز عندما يكون المكان صاخبًا.",
+"syn": [
+"focus"
+],
+"ant": [],
+"src": "MEMO seed - يحتاج مراجعة معلم"
+},
+{
+"id": "w_consider",
+"en": "consider",
+"pos": "v",
+"ar": [
+"يفكّر في",
+"يعتبر"
+],
+"ex": "Consider all the options first.",
+"exAr": "فكّر في كل الخيارات أولًا.",
+"syn": [
+"think about"
+],
+"ant": [],
+"src": "MEMO seed - يحتاج مراجعة معلم"
+},
+{
+"id": "w_develop",
+"en": "develop",
+"pos": "v",
+"ar": [
+"يطوّر",
+"ينمّي"
+],
+"ex": "Reading develops your vocabulary.",
+"exAr": "القراءة تنمّي حصيلتك اللغوية.",
+"syn": [],
+"ant": [],
+"src": "MEMO seed - يحتاج مراجعة معلم"
+},
+{
+"id": "w_environment",
+"en": "environment",
+"pos": "n",
+"ar": [
+"بيئة"
+],
+"ex": "We must protect the environment.",
+"exAr": "يجب أن نحمي البيئة.",
+"syn": [],
+"ant": [],
+"src": "MEMO seed - يحتاج مراجعة معلم"
+},
+{
+"id": "w_encourage",
+"en": "encourage",
+"pos": "v",
+"ar": [
+"يشجّع"
+],
+"ex": "Teachers encourage students to ask questions.",
+"exAr": "يشجّع المعلمون الطلاب على السؤال.",
+"syn": [
+"support"
+],
+"ant": [
+"discourage"
+],
+"src": "MEMO seed - يحتاج مراجعة معلم"
+},
+{
+"id": "w_experience",
+"en": "experience",
+"pos": "n",
+"ar": [
+"خبرة",
+"تجربة"
+],
+"ex": "She has a lot of experience.",
+"exAr": "لديها خبرة كبيرة.",
+"syn": [],
+"ant": [],
+"src": "MEMO seed - يحتاج مراجعة معلم"
+},
+{
+"id": "w_explain",
+"en": "explain",
+"pos": "v",
+"ar": [
+"يشرح"
+],
+"ex": "Can you explain this rule?",
+"exAr": "هل تشرح هذه القاعدة؟",
+"syn": [],
+"ant": [],
+"src": "MEMO seed - يحتاج مراجعة معلم"
+},
+{
+"id": "w_improve",
+"en": "improve",
+"pos": "v",
+"ar": [
+"يحسّن",
+"يتحسّن"
+],
+"ex": "Practice will improve your English.",
+"exAr": "التدريب سيحسّن إنجليزيتك.",
+"syn": [],
+"ant": [
+"worsen"
+],
+"src": "MEMO seed - يحتاج مراجعة معلم"
+},
+{
+"id": "w_important",
+"en": "important",
+"pos": "adj",
+"ar": [
+"مهم"
+],
+"ex": "Sleep is important for students.",
+"exAr": "النوم مهم للطلاب.",
+"syn": [
+"essential"
+],
+"ant": [
+"unimportant"
+],
+"src": "MEMO seed - يحتاج مراجعة معلم"
+},
+{
+"id": "w_knowledge",
+"en": "knowledge",
+"pos": "n",
+"ar": [
+"معرفة",
+"علم"
+],
+"ex": "Knowledge is power.",
+"exAr": "المعرفة قوة.",
+"syn": [],
+"ant": [
+"ignorance"
+],
+"src": "MEMO seed - يحتاج مراجعة معلم"
+},
+{
+"id": "w_opportunity",
+"en": "opportunity",
+"pos": "n",
+"ar": [
+"فرصة"
+],
+"ex": "This is a great opportunity.",
+"exAr": "هذه فرصة رائعة.",
+"syn": [
+"chance"
+],
+"ant": [],
+"src": "MEMO seed - يحتاج مراجعة معلم"
+},
+{
+"id": "w_prevent",
+"en": "prevent",
+"pos": "v",
+"ar": [
+"يمنع"
+],
+"ex": "Vaccines prevent diseases.",
+"exAr": "اللقاحات تمنع الأمراض.",
+"syn": [],
+"ant": [],
+"src": "MEMO seed - يحتاج مراجعة معلم"
+},
+{
+"id": "w_protect",
+"en": "protect",
+"pos": "v",
+"ar": [
+"يحمي"
+],
+"ex": "Trees protect the soil.",
+"exAr": "الأشجار تحمي التربة.",
+"syn": [],
+"ant": [
+"harm"
+],
+"src": "MEMO seed - يحتاج مراجعة معلم"
+},
+{
+"id": "w_recognize",
+"en": "recognize",
+"pos": "v",
+"ar": [
+"يتعرّف على"
+],
+"ex": "I recognized him at once.",
+"exAr": "تعرّفت عليه فورًا.",
+"syn": [],
+"ant": [],
+"src": "MEMO seed - يحتاج مراجعة معلم"
+},
+{
+"id": "w_responsible",
+"en": "responsible",
+"pos": "adj",
+"ar": [
+"مسؤول"
+],
+"ex": "He is responsible for the project.",
+"exAr": "هو مسؤول عن المشروع.",
+"syn": [],
+"ant": [
+"irresponsible"
+],
+"src": "MEMO seed - يحتاج مراجعة معلم"
+},
+{
+"id": "w_solve",
+"en": "solve",
+"pos": "v",
+"ar": [
+"يحلّ"
+],
+"ex": "She solved the problem quickly.",
+"exAr": "حلّت المشكلة بسرعة.",
+"syn": [],
+"ant": [],
+"src": "MEMO seed - يحتاج مراجعة معلم"
+},
+{
+"id": "w_suggest",
+"en": "suggest",
+"pos": "v",
+"ar": [
+"يقترح"
+],
+"ex": "I suggest studying together.",
+"exAr": "أقترح أن نذاكر معًا.",
+"syn": [],
+"ant": [],
+"src": "MEMO seed - يحتاج مراجعة معلم"
+},
+{
+"id": "w_support",
+"en": "support",
+"pos": "v/n",
+"ar": [
+"يدعم",
+"دعم"
+],
+"ex": "Parents support their children.",
+"exAr": "يدعم الآباء أبناءهم.",
+"syn": [],
+"ant": [],
+"src": "MEMO seed - يحتاج مراجعة معلم"
+},
+{
+"id": "w_success",
+"en": "success",
+"pos": "n",
+"ar": [
+"نجاح"
+],
+"ex": "Hard work leads to success.",
+"exAr": "الاجتهاد يقود إلى النجاح.",
+"syn": [],
+"ant": [
+"failure"
+],
+"src": "MEMO seed - يحتاج مراجعة معلم"
+},
+{
+"id": "w_technology",
+"en": "technology",
+"pos": "n",
+"ar": [
+"تكنولوجيا"
+],
+"ex": "Technology changes our lives.",
+"exAr": "التكنولوجيا تغيّر حياتنا.",
+"syn": [],
+"ant": [],
+"src": "MEMO seed - يحتاج مراجعة معلم"
+},
+{
+"id": "w_reduce",
+"en": "reduce",
+"pos": "v",
+"ar": [
+"يقلّل"
+],
+"ex": "We should reduce waste.",
+"exAr": "يجب أن نقلّل النفايات.",
+"syn": [
+"decrease"
+],
+"ant": [
+"increase"
+],
+"src": "MEMO seed - يحتاج مراجعة معلم"
+},
+{
+"id": "w_increase",
+"en": "increase",
+"pos": "v/n",
+"ar": [
+"يزيد",
+"زيادة"
+],
+"ex": "Prices increased last year.",
+"exAr": "ارتفعت الأسعار العام الماضي.",
+"syn": [
+"rise"
+],
+"ant": [
+"decrease"
+],
+"src": "MEMO seed - يحتاج مراجعة معلم"
+},
+{
+"id": "w_avoid",
+"en": "avoid",
+"pos": "v",
+"ar": [
+"يتجنّب"
+],
+"ex": "Avoid distractions while studying.",
+"exAr": "تجنّب المشتتات أثناء المذاكرة.",
+"syn": [],
+"ant": [],
+"src": "MEMO seed - يحتاج مراجعة معلم"
+},
+{
+"id": "w_discover",
+"en": "discover",
+"pos": "v",
+"ar": [
+"يكتشف"
+],
+"ex": "Scientists discovered a new planet.",
+"exAr": "اكتشف العلماء كوكبًا جديدًا.",
+"syn": [],
+"ant": [],
+"src": "MEMO seed - يحتاج مراجعة معلم"
+},
+{
+"id": "w_invent",
+"en": "invent",
+"pos": "v",
+"ar": [
+"يخترع"
+],
+"ex": "Who invented the telephone?",
+"exAr": "من اخترع الهاتف؟",
+"syn": [],
+"ant": [],
+"src": "MEMO seed - يحتاج مراجعة معلم"
+}
+]
